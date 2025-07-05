@@ -1,4 +1,4 @@
-# Vibe Diary 📔
+# Vibe Code Diary 📔
 
 A tiny CLI to turn your Cursor chat history into daily markdown journal entries.
 
